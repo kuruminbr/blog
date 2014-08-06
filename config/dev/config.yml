@@ -3,10 +3,10 @@ server:
   # optional, default: 127.0.0.1
   host:
   # optional, default: 4000
-  port:
+  port:80
   timezone: UTC
   cluster:  false
-  base_url: http://127.0.0.1:4000/
+  base_url: http://blog-ewy.herokuapp.com
 
 db:
   db: blog-dev
