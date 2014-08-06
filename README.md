@@ -2,4 +2,4 @@
 
 Start writing your project description here :)
 
-Blog do Kurumin
+Blog do Kurumin v.0.1
